@@ -1,56 +1,81 @@
 
-영화 보러 갈래?
-Do you want to see a movie?
+001. 영화 보러 갈래?   Do you want to see a movie?
 
-조용히 좀 해 줄래?
-Can you keep it down?
+002. 조용히 좀 해 줄래?   Can you keep it down?
 
-얘기 좀 해도 될까?
-Can I talk to you?
+003. 얘기 좀 해도 될까?   Can I talk to you?
 
-여기 사인해 주시겠어요?
-Would you sign here, please?
+004. 여기 사인해 주시겠어요?   Would you sign here, please?
 
-진심이야?
-Are you serious?
+005. 진심이야?   Are you serious?
 
-내가 먼저 전화해야 하나?
-Should I call him first?
+006. 내가 먼저 전화해야 하나?   Should I call him first?
 
-그녀에게 데이트 신청할 작정이야?
-Are you going to ask her out?
+007. 그녀에게 데이트 신청할 작정이야?   Are you going to ask her out?
 
-전화해도 돼요?
-Is it okay if I call you?
+008. 전화해도 돼요?   Is it okay if I call you?
 
-인터넷으로 주문하지 그래?
-Why don't you order it online?
+009. 인터넷으로 주문하지 그래?   Why don't you order it online?
 
-근처에 화장실이 있나요?
-Is there a bathroom around here?
+010. 근처에 화장실이 있나요?   Is there a bathroom around here?
 
-누굴 사랑해 본 적 있어요?
-Have you ever loved someone?
+011. 누굴 사랑해 본 적 있어요?   Have you ever loved someone?
 
-좀 도와줘?
-You need some help?
+012. 좀 도와줘?   You need some help?
 
-그렇게 생각 안 해?
-Don't you think so?
+013. 그렇게 생각 안 해?   Don't you think so?
 
-나한테 메시지 온 거 있어요?
+014. 나한테 메시지 온 거 있어요?   Any messages for me?
 
-무슨 일 있어?
+015. 무슨 일 있어?   What happened to you?
 
-너희 둘은 어떻게 만나게 되었는데?
+016. 너희 둘은 어떻게 만나게 되었는데?   How did you two meet?
 
-오늘 언제 퇴근해요?
+017. 오늘 언제 퇴근해요?   When do you get off today?
 
-어디 가고 싶어?
+018. 어디 가고 싶어?   Where do you want to go?
 
-누가 이랬어?
+019. 누가 이랬어?   Who did this?
 
-왜 나한테 키스했어?
+020. 왜 나한테 키스했어?   why did you kiss me?
 
+021. 내가 집까지 태워다줄 수 있는데.   I can drive you home.
 
+022. 내가 계산할게.   I'll pick up the tab.
+
+023. 난 담배 안 피워.   I don't smoke.
+
+024. 너 만나러 여기 왔어.   I'm here to see you.
+
+025. 커피 좀 더 주시면 좋겠네요.   I'd like more coffee, please.
+
+026. 나 5kg 뺄 거야.   I'm going to lose 5kg.
+
+027. 가봐야 할 것 같아.   I think I should get going.
+
+028. 생각 좀 해 볼게요.   Let me think about it.
+
+029. 우리 사귀자.   Let's go steady.
+
+030. 잔돈 여기 있습니다.   Here's your change.
+
+031. 언제든 연락 주세요.   Feel free to contact us.
+
+032. 차라리 혼자 있을래요.   I would rather be alone.
+
+033. 언니랑 목소리가 똑같네요.   You sound just like your sister.
+
+034. 당신 오늘 밤 정말 섹시해 보여.   You look gorgeous tonight.
+
+035. 그냥 클릭만 하면 돼.   All you have to do is click.
+
+036. 더 나빴을 수도 있어.(그만하길 다행이다.)   It could be worse.
+
+037. 그 영화 벌써 봤어.   I've already seen the movie.
+
+038. 술을 줄여야겠어.   I should cut down on my drinking.
+
+039. 나 전화받느라 바빠.   I'm busy answering phone calls.
+
+040. 나 머리 잘랐어.   I got my hair cut.
 
