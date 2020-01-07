@@ -4,7 +4,7 @@
 004. 여기 사인해 주시겠어요?	Would you sign here, please?
 005. 진심이야?	Are you serious?
 006. 내가 먼저 전화해야 하나?	Should I call him first?
-007. 그녀에게 데이터 신청할 작정이야?	Are you going to ask her out?
+007. 그녀에게 데이트 신청할 작정이야?	Are you going to ask her out?
 008. 전화해도 돼요?	Is it okay if I call you?
 009. 인터넷으로 주문하지 그래?	Why don't you order it online?
 010. 근처에 화장실이 있나요?	Is there a bathroom around here?
