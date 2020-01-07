@@ -1,4 +1,4 @@
-001. 영화 보러 갈래?	Do you want see a movie?
+001. 영화 보러 갈래?	Do you want to see a movie?
 002. 조용히 좀 해 줄래?	Can you keep it down?
 003. 얘기 좀 해도 될까?	Can I talk to you?
 004. 여기 사인해 주시겠어요?	Would you sign here, please?
